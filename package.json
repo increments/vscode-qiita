@@ -1,22 +1,22 @@
 {
-  "name": "qiita",
-  "displayName": "Qiita",
-  "description": "Qiita color theme for VSCode",
-  "version": "0.0.0",
-  "publisher": "Increments",
-  "engines": {
-    "vscode": "^1.18.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Qiita",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Qiita-color-theme.json"
-      }
-    ]
-  }
+    "name": "qiita",
+    "displayName": "Qiita",
+    "description": "Qiita color theme for VSCode",
+    "version": "1.0.0",
+    "publisher": "Increments",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Qiita",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Qiita-color-theme.json"
+            }
+        ]
+    }
 }
