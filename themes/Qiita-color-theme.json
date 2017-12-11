@@ -1,0 +1,203 @@
+{
+  "tokenColors": [
+    {
+      "settings": {
+        "foreground": "#E3E3E3"
+      }
+    },
+    {
+      "name": "Comment",
+      "scope": "comment",
+      "settings": {
+        "foreground": "#9DABAE"
+      }
+    },
+    {
+      "name": "String",
+      "scope": "string",
+      "settings": {
+        "foreground": "#FF8095"
+      }
+    },
+    {
+      "name": "Number",
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#A980F5"
+      }
+    },
+    {
+      "name": "Built-in constant",
+      "scope": "constant.language",
+      "settings": {
+        "foreground": "#AE81FF"
+      }
+    },
+    {
+      "name": "User-defined constant",
+      "scope": [
+        "constant.character",
+        "constant.other"
+      ],
+      "settings": {
+        "foreground": "#8BDF4C"
+      }
+    },
+    {
+      "name": "Variable",
+      "scope": "variable",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Keyword",
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#EBD247"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": "storage",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#FF8095"
+      }
+    },
+    {
+      "name": "Storage type",
+      "scope": "storage.type",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#41B7D7"
+      }
+    },
+    {
+      "name": "Class name",
+      "scope": "entity.name.class",
+      "settings": {
+        "foreground": "#8BDF4C"
+      }
+    },
+    {
+      "name": "Inherited class",
+      "scope": "entity.other.inherited-class",
+      "settings": {
+        "foreground": "#8BDF4C"
+      }
+    },
+    {
+      "name": "Function name",
+      "scope": "entity.name.function",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#8BDF4C"
+      }
+    },
+    {
+      "name": "Function argument",
+      "scope": "variable.parameter",
+      "settings": {
+        "foreground": "#83C3BB",
+        "background": ""
+      }
+    },
+    {
+      "name": "Tag name",
+      "scope": "entity.name.tag",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#FF8095"
+      }
+    },
+    {
+      "name": "Tag attribute",
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#8BDF4C"
+      }
+    },
+    {
+      "name": "Library function",
+      "scope": "support.function",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#41B7D7"
+      }
+    },
+    {
+      "name": "Library constant",
+      "scope": "support.constant",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#41B7D7"
+      }
+    },
+    {
+      "name": "Library class/type",
+      "scope": [
+        "support.type",
+        "support.class"
+      ],
+      "settings": {
+        "foreground": "#41B7D7"
+      }
+    },
+    {
+      "name": "Library variable",
+      "scope": "support.other.variable",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Invalid",
+      "scope": "invalid",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#E3E3E3"
+      }
+    },
+    {
+      "name": "Invalid deprecated",
+      "scope": "invalid.deprecated",
+      "settings": {
+        "foreground": "#E3E3E3"
+      }
+    }
+  ],
+  "colors": {
+    "activityBar.background": "#364549",
+    "activityBarBadge.foreground": "#ffffff",
+    "activityBarBadge.background": "#55C500",
+    "editor.background": "#364549",
+    "editorCursor.foreground": "#55C500",
+    "editor.foreground": "#E3E3E3",
+    "editorWhitespace.foreground": "#636363",
+    "editor.lineHighlightBackground": "#4C6166",
+    "editorLineNumber.foreground": "#aaaaaa",
+    "editor.selectionBackground": "#4C6166",
+    "editor.findMatchBackground": "#2c383a",
+    "editor.findMatchHighlightBackground": "#2c383a",
+    "editor.findRangeHighlightBackground": "#2c383a",
+    "editorGroupHeader.tabsBackground": "#2c383a",
+    "tab.activeBackground": "#364549",
+    "tab.inactiveBackground": "#2c383a",
+    "tab.border": "#364549",
+    "list.activeSelectionBackground": "#576f75",
+    "list.focusBackground": "#576f75",
+    "list.hoverBackground": "#576f75",
+    "list.inactiveSelectionBackground": "#576f75",
+    "sideBar.background": "#415358",
+    "sideBar.foreground": "#e3e3e3",
+    "sideBar.border": "#415358",
+    "statusBar.background": "#55C500",
+    "statusBar.foreground": "#ffffff",
+    "sideBarSectionHeader.background": "#364549",
+    "sideBarSectionHeader.foreground": "#e3e3e3",
+    "panel.background": "#415358"
+  },
+  "name": "Qiita"
+}
