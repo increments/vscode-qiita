@@ -1,23 +1,28 @@
 {
-    "name": "qiita",
-    "displayName": "Qiita",
-    "description": "Qiita color theme for VSCode",
-    "icon": "images/qiita-logo.png",
-    "version": "1.0.0",
-    "publisher": "Increments",
-    "engines": {
-        "vscode": "^1.18.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Qiita",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Qiita-color-theme.json"
-            }
-        ]
-    }
+	"name": "qiita",
+	"displayName": "Qiita",
+	"description": "Qiita color theme for VSCode",
+	"icon": "images/qiita-logo.png",
+	"version": "1.0.1",
+	"publisher": "Increments",
+	"engines": {
+		"vscode": "^1.18.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Qiita",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Qiita-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "f619f70d-ed44-47e6-824e-03d891afcbb2",
+		"publisherDisplayName": "Increments",
+		"publisherId": "900288a3-7dc7-4763-9a63-68e02c68a4cd"
+	}
 }
