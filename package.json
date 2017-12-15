@@ -2,6 +2,7 @@
     "name": "qiita",
     "displayName": "Qiita",
     "description": "Qiita color theme for VSCode",
+    "icon": "images/qiita-logo.png",
     "version": "1.0.0",
     "publisher": "Increments",
     "engines": {
